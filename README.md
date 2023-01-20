@@ -17,9 +17,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-## 📖 OOP-School-Library<a name="about-project"></a>
+## 📖 TDD-project<a name="about-project"></a>
 
-This is an OOP for a school library using Ruby
+This is a project in TEST DRIVEN DEVELOPMENT
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,7 +55,7 @@ This is an OOP for a school library using Ruby
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link <https://github.com/blase147/OOP-School-Library.git>
+- copy this link <https://github.com/blase147/TDD-project.git>
 - get the directory that you want to clone the repository.
 
 ### Prerequisites
@@ -68,7 +68,7 @@ In order to run this project you need:
 ### Setup
 
 open the command prompt in this directory.
-- write git clone <https://github.com/blase147/OOP-School-Library.git>
+- write git clone <https://github.com/blase147/TDD-project.git>
 - or git clone git@github.com/blase147/OOP-School-Library.git` if you prefer ssh and hit enter.
 - create a directory in your preferred location (e.g in the Desktop or Document directory)
 
