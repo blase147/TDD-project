@@ -103,6 +103,14 @@ To run tests, run the following command:
 
 [GitHub](https://github.com/blase147) | [Twitter](https://twitter.com/ChukwumaMosanya) | [LinkedIn](https://www.linkedin.com/in/chukwuma-mosanya)
 
+
+👤 **Oluwatoyin Olaoye**
+
+- GitHub: [![Abayomi](https://img.shields.io/badge/-Abayomi-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/abayomiolaoye)
+- Twitter: [![Abayomi](https://img.shields.io/badge/-Abayomi-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/olaoyeelijah)
+- LinkedIn: [![Oluwatoyin](https://img.shields.io/badge/-Oluwatoyin-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/oluwatoyinolaoye)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
