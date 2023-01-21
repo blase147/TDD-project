@@ -110,6 +110,12 @@ To run tests, run the following command:
 - Twitter: [![Abayomi](https://img.shields.io/badge/-Abayomi-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/olaoyeelijah)
 - LinkedIn: [![Oluwatoyin](https://img.shields.io/badge/-Oluwatoyin-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/oluwatoyinolaoye)
 
+👤 **Sammuel LEKPOR**
+
+- GitHub: [@Samuellekpor](https://github.com/Samuellekpor)
+- Twitter: [@samuel_lekpor](https://twitter.com/samuel_lekpor)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sammuel-lekpor)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
